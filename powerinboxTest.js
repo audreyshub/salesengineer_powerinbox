@@ -93,3 +93,6 @@ function parser() {
 
 
 $(parser);
+
+
+//FIXME Need a way to handle 'can't split undefined' error when no parameters are returned for lines 73,74, 83,84
